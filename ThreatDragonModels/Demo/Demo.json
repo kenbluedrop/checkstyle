@@ -101,8 +101,16 @@
               },
               "vertices": [
                 {
+                  "x": 300,
+                  "y": 219
+                },
+                {
                   "x": 307,
                   "y": 209
+                },
+                {
+                  "x": 363,
+                  "y": 175
                 },
                 {
                   "x": 395,
@@ -211,7 +219,7 @@
               "hasOpenThreats": false,
               "protocol": "HTTPs",
               "isPublicNetwork": true,
-              "isEncrypted": true,
+              "isEncrypted": false,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
